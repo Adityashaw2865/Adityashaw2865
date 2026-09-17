@@ -96,19 +96,13 @@ I'm a **full-stack developer** from India, building end-to-end web applications 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🌐 LAZAREV Clone</h3>
-<p>A close clone of the award-winning LAZAREV studio website, rebuilt with smooth scroll-triggered animations.</p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<br/><br/>
-<a href="https://github.com/Adityashaw2865/LAZAREV">→ View Repository</a>
-</td>
-<td width="50%" valign="top">
 <h3>💼 Portfolio</h3>
 <p>Personal portfolio website showcasing my projects, skills, and journey as a developer.</p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <br/><br/>
 <a href="https://github.com/Adityashaw2865/PORTFOLIO-">→ View Repository</a>
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
