@@ -102,7 +102,13 @@ I'm a **full-stack developer** from India, building end-to-end web applications 
 <br/><br/>
 <a href="https://github.com/Adityashaw2865/PORTFOLIO-">→ View Repository</a>
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<h3>🪔 Ganga Aarti — Ramkrishnapur Ghat</h3>
+<p>A devotional website for the evening Ganga Aarti at Ramkrishnapur Ghat, Howrah — featuring aarti timings, Sanskrit shlokas, full aarti lyrics, a photo gallery, and a contact section.</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/Adityashaw2865/Ganga_arati">→ View Repository</a> · <a href="https://ganga-arati.vercel.app/">→ Live Demo</a>
+</td>
 </tr>
 </table>
 
